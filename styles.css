@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+code {
+    background-color: #333;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.stTextInput>div>div>div>input {
+    background-color: #333;
+    color: white;
+    border: 1px solid white;
+}
+
+.stButton>button {
+    background-color: #333;
+    color: white;
+    border: 1px solid white;
+}
+
+.stMarkdown {
+    color: white;
+}
+
+.stFileUploader>div>div>div>div>div>div>input {
+    background-color: #333;
+    color: white;
+    border: 1px solid white;
+}
+
+.stText>div>div>div>div>div>input {
+    background-color: #333;
+    color: white;
+    border: 1px solid white;
+}
+
+.stExpander {
+    background-color: #333;
+    color: white;
+    border: 1px solid white;
+}
+
+.stExpanderContent {
+    background-color: #333;
+    color: white;
+}
+
+.stExpanderHeader>div>div {
+    background-color: #333;
+    color: white;
+    border: 1px solid white;
+}
+
+.stExpanderHeader>div>div>div>div>div>div>div>input {
+    background-color: #333;
+    color: white;
+    border: 1px solid white;
+}
+
+.stMarkdown>div>p {
+    color: white;
+}
